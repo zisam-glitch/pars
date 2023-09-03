@@ -178,5 +178,9 @@ input[type="number"] {
   width: 15px;
   height: 15px;
 }
-/* .zeroope{
-} */
+
+@media screen and (min-width: 480px) {
+  .zeroope{
+    background-color: antiquewhite;
+}
+}
