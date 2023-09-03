@@ -12,7 +12,7 @@ const ClearAlignersBaner = () => {
         alt="Whitening Banner"
       />
       <div className="absolute lg:left-28 left-1/2 -translate-x-1/2 lg:translate-x-0 top-1/2 text-white -translate-y-1/2 z-[2] sm:w-full sm:p-40">
-        <h1 className="font-bold text-4xl lg:text-6xl leading-[1.2] lg:leading-tight text-center lg:text-left whitespace-nowrap">
+        <h1 className="font-bold text-2xl lg:text-6xl leading-[1.2] lg:leading-tight text-center lg:text-left whitespace-nowrap">
           Clear Aligners: The Future <br/> of Invisible Teeth Straightening
         </h1>
         <p className="leading-8 my-5 lg:max-w-[700px] max-w-none text-center lg:text-left">
