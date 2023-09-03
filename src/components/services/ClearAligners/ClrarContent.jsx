@@ -3,7 +3,7 @@ import React from "react";
 const ClearAlignersBaner = () => {
   return (
     <section className="headclear max-w-5xl m-auto py-12">
-      <div className="tab1 py-16">
+      <div className="tab1 py-10">
         <h1 className="text-3xl	py-4">What are Clear Aligners?</h1>
         <p>
           Clear Aligners are transparent plastic trays designed to gradually
@@ -13,7 +13,7 @@ const ClearAlignersBaner = () => {
           their convenience, aesthetics, and effectiveness.
         </p>
       </div>
-      <div className="tab1 py-16">
+      <div className="tab1 py-10">
         <h1 className="text-3xl	py-4">Benefits of Clear Aligners</h1>
         <h2 className="text-2xl	py-2">Discreet Appearance</h2>
 
