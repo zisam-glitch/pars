@@ -3,7 +3,7 @@ import React from "react";
 const ClearAlignersBaner = () => {
   return (
     <section className="headclear max-w-5xl m-auto py-12">
-      <div className="tab1 py-8">
+      <div className="tab1 py-6">
         <h1 className="text-3xl	py-4">What are Clear Aligners?</h1>
         <p>
           Clear Aligners are transparent plastic trays designed to gradually
@@ -13,7 +13,7 @@ const ClearAlignersBaner = () => {
           their convenience, aesthetics, and effectiveness.
         </p>
       </div>
-      <div className="tab1 py-8">
+      <div className="tab1 py-6">
         <h1 className="text-3xl	py-4">Benefits of Clear Aligners</h1>
         <h2 className="text-2xl	pt-2.5 ">Discreet Appearance</h2>
 
@@ -42,7 +42,7 @@ const ClearAlignersBaner = () => {
         </p>
       </div>
 
-      <div className="tab1 py-8">
+      <div className="tab1 py-6">
         <h1 className="text-3xl	py-4">What are Clear Aligners?</h1>
         <p>
           There are several brands offering clear aligners. Here are some
@@ -58,7 +58,7 @@ const ClearAlignersBaner = () => {
           is best suited for your unique needs.
         </p>
       </div>
-      <div className="tab1 py-8">
+      <div className="tab1 py-6">
         <h1 className="text-3xl	py-4">Cost of Clear Aligners</h1>
         <p>
           The cost of clear aligners varies depending on various factors such as
@@ -66,7 +66,7 @@ const ClearAlignersBaner = () => {
           However, they are generally priced between £2800 to £4400
         </p>
       </div>
-      <div className="tab1 py-8">
+      <div className="tab1 py-6">
         <h1 className="text-3xl	py-4">How to Get Started</h1>
         <p>1.	Consultation: Visit Parish Dental for a comprehensive evaluation.</p>
         <p>2.	Treatment Plan: Based on your evaluation, a custom treatment plan will be devised.</p>
