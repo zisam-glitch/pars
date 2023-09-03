@@ -67,6 +67,10 @@ const ClearAlignersBaner = () => {
           It's important to consult with an orthodontist to determine which type
           is best suited for your unique needs.
         </p>
+        <p>
+          It's important to consult with an orthodontist to determine which type
+          is best suited for your unique needs.
+        </p>
       </div>
       <div className="tab1 py-16">
         <h1 className="text-3xl	py-4">What are Clear Aligners?</h1>
