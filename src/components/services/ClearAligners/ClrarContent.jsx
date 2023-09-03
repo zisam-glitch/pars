@@ -2,8 +2,8 @@ import React from "react";
 
 const ClearAlignersBaner = () => {
   return (
-    <section className="headclear max-w-screen-lg m-auto py-8">
-      <div className="tab1 py-8">
+    <section className="headclear max-w-screen-lg m-auto py-24">
+      <div className="tab1 py-18">
         <h1>What are Clear Aligners?</h1>
         <p>
           Clear Aligners are transparent plastic trays designed to gradually
