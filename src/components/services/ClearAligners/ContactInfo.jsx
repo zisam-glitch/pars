@@ -39,7 +39,7 @@ const ContactPageForm = () => {
           {contactData?.subtitle}
         </h2>
         <ReactMarkdown className="text-gray-600 mx-auto my-5 text-base leading-8">
-          {contactData?.description?.description}
+        Ready to take control of your dental health? Contact us to book your appointment today!
         </ReactMarkdown>
         <QueriesForm inputBg="bg-white" />
       </div>
