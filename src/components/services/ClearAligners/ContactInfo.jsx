@@ -3,7 +3,6 @@ import React from "react";
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 import { StaticImage } from "gatsby-plugin-image";
 import QueriesForm from "../../global/QueriesForm";
-
 const ContactPageForm = () => {
   const data = useStaticQuery(graphql`
     query ServicesPageContactQuery {
@@ -28,7 +27,7 @@ const ContactPageForm = () => {
     <section className="container mx-auto px-10 flex flex-col lg:flex-row items-center my-24">
       <div className="w-full lg:w-1/2 lg:p-10">
         <StaticImage
-          src="../images/contact-page-image.jpg"
+          src="../../../images/contact-page-image.jpg"
           alt="Contact Image"
         />
       </div>
