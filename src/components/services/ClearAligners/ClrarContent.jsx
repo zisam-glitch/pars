@@ -2,7 +2,7 @@ import React from "react";
 
 const ClearAlignersBaner = () => {
   return (
-    <section>
+    <section className="max-w-screen-xl m-auto">
       <div className="tab1">
         <h1>What are Clear Aligners?</h1>
         <p>
