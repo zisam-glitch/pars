@@ -2,7 +2,7 @@ import React from "react";
 
 const ClearAlignersBaner = () => {
   return (
-    <section className="container mx-auto px-10 py-12 px-10 lg:px-0">
+    <section className="container mx-auto px-10 py-12">
       <div className="tab1 py-6">
         <h1 className="text-3xl	py-4">What are Clear Aligners?</h1>
         <p>
