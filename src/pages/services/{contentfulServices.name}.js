@@ -6,6 +6,7 @@ import FacialAesthetics from "../../components/services/FacialAesthetics";
 import NotFoundPage from "../404";
 import DomiciliaryCare from "../../components/services/DomiciliaryCare";
 import Whitening from "../../components/services/Whitening/Whitening";
+import ClearAligners from "../../components/services/ClearAligners/ClearAligners";
 import { GatsbyImage } from "gatsby-plugin-image";
 import EmergencyDentistry from "../../components/services/EmergencyDentistry/EmergencyDentistry";
 
@@ -15,8 +16,7 @@ const ServicesSinglePage = ({ data }) => {
 
   if (
     slug === "cosmetic" ||
-    slug === "general-dentistry" ||
-    slug === "clear-aligners"
+    slug === "general-dentistry" 
   ) {
     return (
       <Layout>
@@ -37,6 +37,7 @@ const ServicesSinglePage = ({ data }) => {
   return (
     <Layout>
       {slug === "aesthetics" ? <FacialAesthetics /> : <NotFoundPage />}
+      {slug === "clear-aligners" ? <ClearAligners /> : <NotFoundPage />}
       {slug === "domiciliary-care" ? <DomiciliaryCare /> : <NotFoundPage />}
       {slug === "whitening" ? <Whitening /> : <NotFoundPage />}
       {slug === "emergency-dentistry" ? (
