@@ -42,17 +42,7 @@ const ClearAlignersBaner = () => {
         </p>
       </div>
 
-      <div className="tab1 py-16">
-        <h1 className="text-3xl	py-4">Types of Clear Aligners</h1>
-        <p>
-          Clear Aligners are transparent plastic trays designed to gradually
-          shift your teeth into their ideal positions. Unlike metal braces,
-          these aligners are virtually invisible and can be easily removed for
-          eating and cleaning. They have become increasingly popular due to
-          their convenience, aesthetics, and effectiveness.
-        </p>
-      </div>
-      <div className="tab1 py-16">
+      <div className="tab1 py-10">
         <h1 className="text-3xl	py-4">What are Clear Aligners?</h1>
         <p>
           There are several brands offering clear aligners. Here are some
@@ -68,15 +58,20 @@ const ClearAlignersBaner = () => {
           is best suited for your unique needs.
         </p>
       </div>
-      <div className="tab1 py-16">
-        <h1 className="text-3xl	py-4">What are Clear Aligners?</h1>
+      <div className="tab1 py-10">
+        <h1 className="text-3xl	py-4">Cost of Clear Aligners</h1>
         <p>
-          Clear Aligners are transparent plastic trays designed to gradually
-          shift your teeth into their ideal positions. Unlike metal braces,
-          these aligners are virtually invisible and can be easily removed for
-          eating and cleaning. They have become increasingly popular due to
-          their convenience, aesthetics, and effectiveness.
+          The cost of clear aligners varies depending on various factors such as
+          the complexity of your case, the brand you choose, and your location.
+          However, they are generally priced between £2800 to £4400
         </p>
+      </div>
+      <div className="tab1 py-10">
+        <h1 className="text-3xl	py-4">How to Get Started</h1>
+        <p>1.	Consultation: Visit Parish Dental for a comprehensive evaluation.</p>
+        <p>2.	Treatment Plan: Based on your evaluation, a custom treatment plan will be devised.</p>
+        <p>3.	3D Imaging: Your teeth will be scanned or molded to create a series of aligners tailored to you. </p>
+        <p>4.	Start Treatment: Once your aligners are ready, you can start wearing them, typically switching to a new set every two weeks.</p>
       </div>
     </section>
   );
