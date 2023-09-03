@@ -21,7 +21,7 @@ const ClearAlignersBaner = () => {
           Unlike metal braces, clear aligners are virtually invisible. This
           makes them an excellent option for adults and teens who want to
           improve their smile without drawing attention to their treatment.
-        </p> 
+        </p>
         <h2 className="text-2xl	pt-2.5 ">Comfort</h2>
 
         <p>
@@ -55,11 +55,17 @@ const ClearAlignersBaner = () => {
       <div className="tab1 py-16">
         <h1 className="text-3xl	py-4">What are Clear Aligners?</h1>
         <p>
-          Clear Aligners are transparent plastic trays designed to gradually
-          shift your teeth into their ideal positions. Unlike metal braces,
-          these aligners are virtually invisible and can be easily removed for
-          eating and cleaning. They have become increasingly popular due to
-          their convenience, aesthetics, and effectiveness.
+          There are several brands offering clear aligners. Here are some
+          popular ones:
+        </p>
+        <p>• Reveal</p>
+        <p>• Invisalign</p>
+        <p>• SmileDirectClub </p>
+        <p>• Clear Correct</p>
+        <p> • AlignerCo</p>
+        <p>
+          It's important to consult with an orthodontist to determine which type
+          is best suited for your unique needs.
         </p>
       </div>
       <div className="tab1 py-16">
