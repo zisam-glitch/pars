@@ -2,7 +2,7 @@ import { graphql, useStaticQuery } from "gatsby";
 import React from "react";
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 import { StaticImage } from "gatsby-plugin-image";
-import QueriesForm from "./global/QueriesForm";
+import QueriesForm from "../../global/QueriesForm";
 
 const ContactPageForm = () => {
   const data = useStaticQuery(graphql`
