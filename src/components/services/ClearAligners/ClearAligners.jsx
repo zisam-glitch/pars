@@ -1,15 +1,14 @@
 import React from "react";
 import ClearAlignersBaner from "./ClearAlignersBaner";
-import ClrarContent from "./ClrarContent"
-import Faq from "./Faq"
-import DomiciliaryCare from "./DomiciliaryCare"
+import ClrarContent from "./ClrarContent";
+import Faq from "./Faq";
+
 const ClearAligners = () => {
   return (
     <>
-    <ClearAlignersBaner />
-    <DomiciliaryCare />
-    <ClrarContent />
-    <Faq/>
+      <ClearAlignersBaner />
+      <ClrarContent />
+      <Faq />
     </>
   );
 };
