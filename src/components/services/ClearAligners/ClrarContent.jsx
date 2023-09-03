@@ -2,9 +2,9 @@ import React from "react";
 
 const ClearAlignersBaner = () => {
   return (
-    <section className="headclear max-w-screen-lg m-auto py-12">
+    <section className="headclear max-w-5xl m-auto py-12">
       <div className="tab1 py-16">
-        <h1>What are Clear Aligners?</h1>
+        <h1 className="text-3xl	py-4">What are Clear Aligners?</h1>
         <p>
           Clear Aligners are transparent plastic trays designed to gradually
           shift your teeth into their ideal positions. Unlike metal braces,
