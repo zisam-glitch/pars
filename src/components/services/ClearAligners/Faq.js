@@ -10,35 +10,25 @@ const Faq = () => {
   const faqsItems = [
     {
       id: 1,
-      title: "BEAM Whitening Kits & Top-ups",
+      title: "",
       faqs: [
         {
           id: 1,
-          ques: "How do whitening strips differ from trays (kits)?",
-          ans: "As well as being more cost-effective than trays, WhiteWash Professional Whitening Strips are more comfortable, less bulky, and allow you to whiten on the go. Whats more, each strip already contains the optimum amount of whitening gel so its less hassle for you and helps to ensure you achieve an even white smile.",
+          ques: "How long do I have to wear clear aligners each day?",
+          ans: "It's recommended to have a dental check-up every six months, although some people may require more frequent visits.",
         },
         {
           id: 2,
-          ques: "Will I get even results?",
-          ans: "Each strip contains the exact amount of whitening gel to effectively whiten your teeth. Each strip should be positioned across the teeth and gently pressed into place, aiming to get maximum contact with all of your visible teeth. This will ensure even spread of the whitening gel.",
+          ques: "What is the difference between a general dentist and a specialist?",
+          ans: "A general dentist provides a wide range of dental services, while specialists like orthodontists or periodontists focus on specific areas of dentistry.",
         },
         {
           id: 3,
-          ques: "If white spots appear will they go or are they permanent?",
-          ans: "No. These white spots are temporary; they are not harmful and will disappear within 24 hours.",
-        },
-        {
-          id: 4,
-          ques: "What If I experience tooth sensitivity or gum irritation?",
-          ans: "It is not uncommon to experience tooth sensitivity and / or gum irritation whilst whitening your teeth. This is temporary and NOT harmful. To alleviate symptoms it may be sensible to whiten your teeth on alternate days, until you have used all of the strips. If the problem persists, discontinue use and consult your dentist.",
-        },
-        {
-          id: 5,
-          ques: "Why can't I buy teeth whitening gel online?",
-          ans: "Each strip contains the exact amount of whitening gel to effectively whiten your teeth. Each strip should be positioned across the teeth and gently pressed into place, aiming to get maximum contact with all of your visible teeth. This will ensure even spread of the whitening gel.",
+          ques: "Can general dentists perform cosmetic procedures?",
+          ans: "Many general dentists offer basic cosmetic procedures like teeth whitening and dental veneers.",
         },
       ],
-    }
+    },
   ];
 
   const handleOpen = (value) => {
