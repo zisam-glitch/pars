@@ -25,10 +25,10 @@ const PrivateFeeFiltered = ({ category }) => {
   var regexTest =
     /(?=.)\£(([1-9][0-9]{0,2}(,[0-9]{3})*)|[0-9]+)?(\.[0-9]{1,2})?/;
 
-  //   console.log(regexTest.test("computer £5,000.00"));
-  //   console.log(regexTest.test("£5,000.00"));
-  //   console.log(regexTest.test("£5,000.00 that was computer price"));
-  //   console.log(regexTest.test("computer 5,000.00"));
+    console.log(regexTest.test("computer £5,000.00"));
+    console.log(regexTest.test("£5,000.00"));
+    console.log(regexTest.test("£5,000.00 that was computer price"));
+    console.log(regexTest.test("computer 5,000.00"));
 
   return (
     <div id={id}>
