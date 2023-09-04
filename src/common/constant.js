@@ -16,5 +16,5 @@ export const policyPages = [
   { id: 5, name: "GDPR", route: "/gdpr" },
   { id: 6, name: "Complaints Policy", route: "/complaints-policy" },
   { id: 7, name: "Sitemap", route: "/sitemap" },
-  { id: 8, name: "Failed To Attend Policy", route: "/failed-to-attend-policy" },
+  { id: 8, name: "Failed to Attend Policy", route: "/failed-to-attend-policy" },
 ];
