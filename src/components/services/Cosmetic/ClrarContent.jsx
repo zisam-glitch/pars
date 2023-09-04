@@ -4,74 +4,102 @@ const ClearAlignersBaner = () => {
   return (
     <section className="container mx-auto px-10 py-12">
       <div className="tab1 py-6">
-        <h1 className="text-3xl	py-4">What are Clear Aligners?</h1>
+        <h1 className="text-3xl	py-4">What is Cosmetic Dentistry?</h1>
         <p>
-          Clear Aligners are transparent plastic trays designed to gradually
-          shift your teeth into their ideal positions. Unlike metal braces,
-          these aligners are virtually invisible and can be easily removed for
-          eating and cleaning. They have become increasingly popular due to
-          their convenience, aesthetics, and effectiveness.
+          Cosmetic Dentistry refers to dental work that improves the appearance
+          of teeth, gums, and/or bite. It primarily focuses on improvement in
+          dental aesthetics such as color, position, shape, size, and overall
+          smile appearance.
         </p>
       </div>
       <div className="tab1 py-6">
-        <h1 className="text-3xl	py-4">Benefits of Clear Aligners</h1>
-        <h2 className="text-2xl	pt-2.5 ">Discreet Appearance</h2>
+        <h1 className="text-3xl	py-4">Popular Cosmetic Dentistry Procedures</h1>
+        <h2 className="text-2xl	pt-2.5 ">Teeth Whitening</h2>
 
         <p>
-          Unlike metal braces, clear aligners are virtually invisible. This
-          makes them an excellent option for adults and teens who want to
-          improve their smile without drawing attention to their treatment.
+          One of the most common and cost-effective cosmetic dentistry
+          treatments, teeth whitening can brighten your smile in just one
+          session.
         </p>
-        <h2 className="text-2xl	pt-2.5 ">Comfort</h2>
+        <h2 className="text-2xl	pt-2.5 ">Porcelain Veneers</h2>
 
         <p>
-          Made of smooth plastic, these aligners are more comfortable than
-          traditional braces, which may have sharp wires or brackets.
+          These are thin shells of porcelain that are custom-fitted to cover the
+          front surface of a tooth, often used to correct uneven teeth, worn
+          enamel, or discoloration.
         </p>
-        <h2 className="text-2xl	pt-2.5 ">Convenience</h2>
+        <h2 className="text-2xl	pt-2.5 ">Dental Implants</h2>
 
         <p>
-          Clear aligners can be easily removed, making it much easier to eat,
-          drink, and maintain good oral hygiene.
+          Used to replace missing teeth, dental implants offer a long-lasting
+          solution that looks and feels natural.
         </p>
-        <h2 className="text-2xl	pt-2.5 ">Customization</h2>
+        <h2 className="text-2xl	pt-2.5 ">Dental Bonding</h2>
 
         <p>
-          Each set of aligners is custom-made using 3D imaging technology to fit
-          snugly over your teeth and guide them to their ideal position.
+          This involves applying a tooth-colored resin to a tooth and hardening
+          it with a special light. It’s a cost-effective way to repair chipped
+          or cracked teeth.
+        </p>
+        <h2 className="text-2xl	pt-2.5 ">Tooth Contouring</h2>
+
+        <p>
+          This procedure involves reshaping the tooth by removing some of its
+          enamel to alter its length, shape, or surface.
         </p>
       </div>
 
       <div className="tab1 py-6">
-        <h1 className="text-3xl	py-4">What are Clear Aligners?</h1>
+        <h1 className="text-3xl	py-4">Benefits of Cosmetic Dentistry</h1>
+
         <p>
-          There are several brands offering clear aligners. Here are some
-          popular ones:
+          1. Enhanced Appearance: The most obvious benefit is a more attractive
+          smile.
         </p>
-        <p>• Reveal</p>
-        <p>• Invisalign</p>
-        <p>• SmileDirectClub </p>
-        <p>• Clear Correct</p>
-        <p> • AlignerCo</p>
         <p>
-          It's important to consult with an orthodontist to determine which type
-          is best suited for your unique needs.
+          2. Boosted Confidence: A better smile often leads to increased
+          self-esteem and confidence.
+        </p>
+        <p>
+          3. Improved Oral Health: Some procedures can help improve your oral
+          health by making cleaning easier.
+        </p>
+        <p>
+          4. Long-Lasting Results: Many cosmetic dentistry procedures offer
+          long-term or permanent solutions.
+        </p>
+        <p>
+          5. Wider Range of Options: There are treatments available for almost
+          every aesthetic issue you might have with your teeth. l
         </p>
       </div>
       <div className="tab1 py-6">
-        <h1 className="text-3xl	py-4">Cost of Clear Aligners</h1>
+        <h1 className="text-3xl	py-4">Costs and Financing</h1>
         <p>
-          The cost of clear aligners varies depending on various factors such as
-          the complexity of your case, the brand you choose, and your location.
-          However, they are generally priced between £2800 to £4400
+          The cost of cosmetic dentistry varies widely depending on the type of
+          procedure, the expertise of the dentist, and geographic location.
+          While many cosmetic procedures are not covered by dental insurance,
+          financing options are often available.
         </p>
       </div>
       <div className="tab1 py-6">
-        <h1 className="text-3xl	py-4">How to Get Started</h1>
-        <p>1.	Consultation: Visit Parish Dental for a comprehensive evaluation.</p>
-        <p>2.	Treatment Plan: Based on your evaluation, a custom treatment plan will be devised.</p>
-        <p>3.	3D Imaging: Your teeth will be scanned or molded to create a series of aligners tailored to you. </p>
-        <p>4.	Start Treatment: Once your aligners are ready, you can start wearing them, typically switching to a new set every two weeks.</p>
+        <h1 className="text-3xl	py-4">How to Choose a Cosmetic Dentist</h1>
+        <p>
+          1. Experience and Qualifications: Look for a dentist with specialized
+          training and a portfolio of before-and-after cases.{" "}
+        </p>
+        <p>
+          2. Technology: Opt for a clinic that uses the latest technology for
+          more precise and effective treatments.
+        </p>
+        <p>
+          3. Reviews and Testimonials: Customer reviews can provide valuable
+          insights into patient satisfaction and quality of service.
+        </p>
+        <p>
+          4. Consultation: A thorough initial consultation is a good sign of a
+          dentist’s professionalism and concern for your needs.
+        </p>
       </div>
     </section>
   );

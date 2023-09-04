@@ -14,18 +14,18 @@ const Faq = () => {
       faqs: [
         {
           id: 1,
-          ques: "How long do I have to wear clear aligners each day?",
-          ans: "It's recommended to have a dental check-up every six months, although some people may require more frequent visits.",
+          ques: "Is Cosmetic Dentistry painful?",
+          ans: "Most cosmetic dentistry procedures are not painful, and discomfort is generally minimal.",
         },
         {
           id: 2,
-          ques: "What is the difference between a general dentist and a specialist?",
-          ans: "A general dentist provides a wide range of dental services, while specialists like orthodontists or periodontists focus on specific areas of dentistry.",
+          ques: "How long will the results last?",
+          ans: "The longevity of results depends on the procedure and your oral hygiene habits.",
         },
         {
           id: 3,
-          ques: "Can general dentists perform cosmetic procedures?",
-          ans: "Many general dentists offer basic cosmetic procedures like teeth whitening and dental veneers.",
+          ques: "Is Cosmetic Dentistry only about aesthetics?",
+          ans: "While the primary focus is aesthetics, some procedures like dental implants also restore function.",
         },
       ],
     },
