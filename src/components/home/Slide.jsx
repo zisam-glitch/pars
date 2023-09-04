@@ -18,7 +18,7 @@ function HeroSlide() {
     >
       <SwiperSlide>
         <div className="bg-gray-500">
-            <p>ff</p>
+            <p>frf</p>
         </div>
       </SwiperSlide>
       <SwiperSlide>
