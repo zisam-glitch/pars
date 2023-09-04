@@ -11,14 +11,14 @@ const ClearAligners = () => {
       <ClrarContent />
       <Faq />
       <section className="container mx-auto px-10 py-12">
-      <div className="tab1 py-6">
-        <h1 className="text-3xl	py-4">Conclusion</h1>
-        <p>
-          General Dentistry is an integral part of maintaining your overall
-          health. With a focus on preventative care, diagnosis, and treatment,
-          it serves as your first line of defense against oral health issues.
-        </p>
-      </div>
+        <div className="tab1 py-6">
+          <h1 className="text-3xl	py-4">Conclusion</h1>
+          <p>
+            General Dentistry is an integral part of maintaining your overall
+            health. With a focus on preventative care, diagnosis, and treatment,
+            it serves as your first line of defense against oral health issues.
+          </p>
+        </div>
       </section>
       <ContactInfo />
     </>
