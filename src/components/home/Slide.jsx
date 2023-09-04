@@ -1,13 +1,16 @@
 import React from "react";
-import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/css";
-import "swiper/css/pagination";
-import { Pagination } from "swiper";
+// import { Swiper, SwiperSlide } from "swiper/react";
+// import "swiper/css";
+// import "swiper/css/pagination";
+// import { Pagination } from "swiper";
 
 function HeroSlide() {
   return (
     <>
-    <Swiper
+    <div className="ff">
+        <p className="ff"></p>
+    </div>
+    {/* <Swiper
       slidesPerView={1}
       spaceBetween={0}
       pagination={{
@@ -26,7 +29,7 @@ function HeroSlide() {
             <p>ff</p>
         </div>
       </SwiperSlide>
-    </Swiper>
+    </Swiper> */}
   </>
   );
 }
