@@ -115,36 +115,7 @@ function HeroSlide({ heroContent, index }) {
             </motion.span>
           </h2>
 
-          {/* {index === 3 ? (
-            <motion.div
-              initial={{
-                opacity: 0,
-                x: -100,
-              }}
-              animate={{
-                opacity: isActive ? 1 : 0,
-                x: isActive ? 0 : -100,
-              }}
-              transition={{
-                type: "tween",
-                stiffness: 100,
-                duration: 0.7,
-                delay: 0.12,
-              }}
-            >
-              <Link to="/services/emergency-dentistry">
-                <Button
-                  className="tracking-[0.2em] uppercase font-normal bg-primary mt-2 flex items-center text-xs"
-                  variant="filled"
-                  size="lg"
-                >
-                  <BsExclamationCircleFill className="mr-3 text-lg" />
-                  Book now
-                </Button>
-              </Link>
-            </motion.div>
-          ) : null} */}
-
+         
           {index === 2 ? (
             <motion.div
               initial={{

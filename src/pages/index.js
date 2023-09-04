@@ -6,6 +6,7 @@ import HomeBanner from "../components/home/HomeBanner";
 import Achievements from "../components/home/Achievements";
 import Features from "../components/home/Features";
 import About from "../components/home/About";
+import Bnr from "../components/home/Slide";
 import Services from "../components/home/Services";
 import Testimonials from "../components/home/Testimonials";
 import Contact from "../components//home/Contact";
@@ -15,6 +16,7 @@ import DynamicSeo from "../components/global/DynamicSeo";
 const IndexPage = () => {
   return (
     <Layout>
+      <Bnr />
       <Hero />
       <Cta />
       <HomeBanner />
