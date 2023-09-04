@@ -115,7 +115,7 @@ function HeroSlide({ heroContent, index }) {
             </motion.span>
           </h2>
 
-          {index === 3 ? (
+          {/* {index === 3 ? (
             <motion.div
               initial={{
                 opacity: 0,
@@ -143,8 +143,8 @@ function HeroSlide({ heroContent, index }) {
                 </Button>
               </Link>
             </motion.div>
-          ) : null}
-          
+          ) : null} */}
+
           {index === 2 ? (
             <motion.div
               initial={{
