@@ -57,12 +57,11 @@ export default ServicesSinglePage;
 
 export function Head({ data }) {
   const { seoMetadata } = data?.contentfulServices;
-  const { metaDescription, pageTitle } = seoMetadata;
+  const { pageTitle } = seoMetadata;
   return (
     <>
       <html lang="en" />
       <title>{pageTitle}</title>
-      <meta name="description" content={metaDescription.metaDescription} />
     </>
   );
 }
@@ -78,9 +77,6 @@ export const query = graphql`
         description
       }
       seoMetadata {
-        metaDescription {
-          metaDescription
-        }
         pageTitle
       }
     }
