@@ -179,8 +179,69 @@ input[type="number"] {
   height: 15px;
 }
 
-/* @media screen and (min-width: 480px) {
-  .zeroope{
-    background-color: antiquewhite;
+.hero-slide{
+  height: 80vh;
+  background-image: url(https://res.cloudinary.com/db1i46uiv/image/upload/v1693901084/Untitled_design_11_eu31s2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
-} */
+.hero-slide .content{
+  padding: 0 15%;
+
+}
+.hero-slide1{
+  height: 80vh;
+  background-image: url(https://res.cloudinary.com/db1i46uiv/image/upload/v1693907556/lovely-woman-smile_spcbk4.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.hero-slide1 .content{
+  padding: 0 15%;
+
+}
+.hero-slide2{
+  height: 80vh;
+  background-image: url(https://res.cloudinary.com/db1i46uiv/image/upload/v1693907769/cosmetologists-hands-making-medical-botox-injections-beautiful-blonde-skin-lifting-facial-treatment-beauty-spa_y9cb2v.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.hero-slide2 .content{
+  padding: 0 15%;
+
+}
+.swiper-button-prev {
+  left: 50px !important ;
+  right: auto;
+  
+}
+.swiper-button-next{
+  right: 50px !important;
+  left: auto;
+}
+.swiper-button-next:after, .swiper-button-prev:after{
+  font-size: 13px !important;
+  font-weight: 900 !important;
+  padding: 13px 16px !important;
+  background-color: white !important;
+  border-radius: 4px !important;
+  color: rgb(21, 127, 180) !important;
+  
+}
+.swiper-button-next.swiper-button-disabled, .swiper-button-prev.swiper-button-disabled {
+  opacity: .5 !important;
+}
+.emergency24{
+  height: 80vh;
+}

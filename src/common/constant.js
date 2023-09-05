@@ -6,6 +6,7 @@ export const navPages = [
   { id: 5, name: "Contact", route: "/contact" },
   { id: 6, name: "Team", route: "/meet-the-team" },
   { id: 7, name: "Blogs", route: "/blogs" },
+  { id: 8, name: "Shop", route: "/shop" },
 ];
 
 export const policyPages = [

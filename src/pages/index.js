@@ -11,11 +11,13 @@ import Testimonials from "../components/home/Testimonials";
 import Contact from "../components//home/Contact";
 import Blog from "../components/home/Blog";
 import DynamicSeo from "../components/global/DynamicSeo";
+import Slide from "../components/home/slide"
 
 const IndexPage = () => {
   return (
     <Layout>
-      <Hero />
+      <Slide/>
+      {/* <Hero /> */}
       <Cta />
       <HomeBanner />
       <Features />

@@ -1184,7 +1184,7 @@ const Layout = ({ children }) => {
         </CartContext.Consumer>
       </div>
 
-      <IconButton onClick={scrollToTop} className={`!fixed bottom-10 left-5`}>
+      <IconButton onClick={scrollToTop} className={`!fixed bottom-10 left-5 z-10`}>
         <BsArrowUp />
       </IconButton>
 
