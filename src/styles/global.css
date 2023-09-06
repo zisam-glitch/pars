@@ -239,6 +239,10 @@ input[type="number"] {
   color: rgb(21, 127, 180) !important;
   
 }
+.swiper-button-next:after:hover, .swiper-button-prev:after:hover{
+  background-color: rgb(255 72 164) !important;
+  color: white !important;
+}
 .swiper-button-next.swiper-button-disabled, .swiper-button-prev.swiper-button-disabled {
   opacity: .5 !important;
 }
